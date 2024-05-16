@@ -1,0 +1,7 @@
+{
+  "name": "udv-ia-curso",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
